@@ -1,0 +1,7 @@
+.hero {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg");
+  background-size: cover;
+  background-position: center;
+  min-height: 60vh;
+}

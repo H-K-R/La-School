@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Business",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur libero incidunt voluptas, optio distinctio sed quaerat, ea sequi aliquid totam cumque deserunt vero obcaecati reprehenderit voluptates iure a pariatur quis enim alias natus, id harum?",
+    "imageUrl": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg"
+  },
+  {
+    "title": "Marketing",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur libero incidunt voluptas, optio distinctio sed quaerat, ea sequi aliquid totam cumque deserunt vero obcaecati reprehenderit voluptates iure a pariatur quis enim alias natus, id harum?",
+    "imageUrl": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg"
+  },
+  {
+    "title": "Development",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur libero incidunt voluptas, optio distinctio sed quaerat, ea sequi aliquid totam cumque deserunt vero obcaecati reprehenderit voluptates iure a pariatur quis enim alias natus, id harum?",
+    "imageUrl": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg"
+  },
+  {
+    "title": "Design",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur libero incidunt voluptas, optio distinctio sed quaerat, ea sequi aliquid totam cumque deserunt vero obcaecati reprehenderit voluptates iure a pariatur quis enim alias natus, id harum?",
+    "imageUrl": "https://images.pexels.com/photos/326502/pexels-photo-326502.jpeg"
+  },
+  {
+    "title": "Advertising",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur libero incidunt voluptas, optio distinctio sed quaerat, ea sequi aliquid totam cumque deserunt vero obcaecati reprehenderit voluptates iure a pariatur quis enim alias natus, id harum?",
+    "imageUrl": "https://images.pexels.com/photos/6224/hands-people-woman-working.jpg"
+  },
+  {
+    "title": "Leadership",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur libero incidunt voluptas, optio distinctio sed quaerat, ea sequi aliquid totam cumque deserunt vero obcaecati reprehenderit voluptates iure a pariatur quis enim alias natus, id harum?",
+    "imageUrl": "https://images.pexels.com/photos/3184405/pexels-photo-3184405.jpeg"
+  },
+  {
+    "title": "Finance",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur libero incidunt voluptas, optio distinctio sed quaerat, ea sequi aliquid totam cumque deserunt vero obcaecati reprehenderit voluptates iure a pariatur quis enim alias natus, id harum?",
+    "imageUrl": "https://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg"
+  }
+]
